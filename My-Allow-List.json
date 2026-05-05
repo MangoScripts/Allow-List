@@ -12,7 +12,16 @@
       "action": {
         "do": 1,
         "status": 1
-      }
+      },
+      "comment": "CoinGecko.com"
+    },
+    {
+      "PK": "cdn.ravenjs.com",
+      "action": {
+        "do": 1,
+        "status": 1
+      },
+      "comment": "Bouqs.com"
     }
   ]
 }
