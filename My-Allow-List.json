@@ -1,0 +1,18 @@
+{
+  "group": {
+    "group": "My Allow List",
+    "action": {
+      "status": 1,
+      "do": 1
+    }
+  },
+  "rules": [
+    {
+      "PK": "www.restomp-excity.online",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    }
+  ]
+}
