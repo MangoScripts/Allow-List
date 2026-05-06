@@ -22,6 +22,14 @@
         "status": 1
       },
       "comment": "Bouqs.com"
+    },
+    {
+      "PK": "prod.events.coindesk.com",
+      "action": {
+        "do": 1,
+        "status": 1
+      },
+      "comment": "coindesk.com"
     }
   ]
 }
