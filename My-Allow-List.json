@@ -13,7 +13,7 @@
         "do": 1,
         "status": 1
       },
-      "comment": "CoinGecko.com"
+      "comment": "CoinGecko"
     },
     {
       "PK": "cdn.ravenjs.com",
@@ -29,7 +29,15 @@
         "do": 1,
         "status": 1
       },
-      "comment": "coindesk.com"
+      "comment": "Coindesk Media Player"
+    },
+    {
+      "PK": "fls-na.amazon.com",
+      "action": {
+        "do": 1,
+        "status": 1
+      },
+      "comment": "Add to Babylist"
     }
   ]
 }
